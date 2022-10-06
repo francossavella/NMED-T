@@ -2,3 +2,4 @@ statsmodels
 mat73
 librosa
 pandas
+dfply
